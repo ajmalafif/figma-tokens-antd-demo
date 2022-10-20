@@ -1,0 +1,8 @@
+{
+  "source": {
+    "tokensFile": "src/tokens/tokens.json"
+  },
+  "target": {
+    "lessDir": "src/tokens/less"
+  }
+}
